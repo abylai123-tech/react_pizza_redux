@@ -18,4 +18,4 @@ npm i - install for node modules
 
 npm install - install redux @reduxjs/toolkit react-redux
 
-npm run dev - http://localhost:5173/ to see results
+npm run dev - localhost:5173 to see results
